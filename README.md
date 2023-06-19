@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Harsh Dewangan and I am a student at Bhilai Institute of Technology Durg. I am a full-stack developer<br>with skills in Next.js, Tailwind CSS, Strapi, JavaScript, and Python. I have experience in creating both frontend and<br>backend for web applications, as well as knowledge in data science.
+Hi, I am Harsh Dewangan and I am a student at Bhilai Institute of Technology Durg. I am a full-stack developer, I have experience in creating both frontend and backend for web applications, as well as knowledge in data science. Also, I am well-versed in various databases
 
 
 ## 🌐 Socials:
