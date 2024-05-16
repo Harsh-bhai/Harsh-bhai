@@ -1,5 +1,5 @@
 # 💫 About Me:
-👉I am a Computer Science and Engineering student, driven by a passion for creating exceptional and user-friendly web experiences.<br>👉As a full-stack developer, I bring a unique blend of creativity and technical expertise to my projects<br>👉I have a great knowledge of Data Structures and Algorithms(DSA).
+👉I am a Computer Science and Engineering student, driven by a passion for creating exceptional and user-friendly web experiences.<br>👉As a full-stack developer, I bring a unique blend of creativity and technical expertise to my projects<br>👉I have a great knowledge of Data Structures and Algorithms(DSA)<br>👉I am currently doing Android development in Flutter.
 
 
 ## 🌐 Socials:
